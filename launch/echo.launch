@@ -1,0 +1,3 @@
+<launch>
+  <node name="echo" type="echo" pkg="ros_connectivity_test" output="screen"/>
+</launch>

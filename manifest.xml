@@ -1,0 +1,15 @@
+<package>
+  <description brief="ros_connectivity_test">
+    Test connectivity between machines on the network.
+  </description>
+  <author>Mikhail Medvedev</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ros_connectivity_test</url>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+

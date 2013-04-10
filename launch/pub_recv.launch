@@ -1,0 +1,6 @@
+<launch>
+  <node name="pub_recv" type="pub_recv" pkg="ros_connectivity_test" output="screen">
+    <param name="bandwidth" value="10.0"/>
+    <param name="frequency" value="10.0"/>
+  </node>
+</launch>
